@@ -1,4 +1,4 @@
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 
 *,
 *::before,
@@ -14,7 +14,7 @@ html {
 }
 
  
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 body {
   margin: 0;
   font-family: "Roboto", sans-serif;
@@ -110,7 +110,8 @@ h1,h2,h3,h4,h5,h6,p{
   font-weight: 1000;
   
 }
- 
+ /* This CSS Style Sheet Created by Vasudev Jaisawl  */
+
 .position-absolute{
   font-weight: 700;
   
@@ -132,6 +133,8 @@ h1,h2,h3,h4,h5,h6,p{
   background-color: #ffffff;
   border:2px solid #ffffff;
 }
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
+
 .btn-blue{
   border: 2.4px solid #ffffff;
   color: #ffffff;
@@ -144,7 +147,7 @@ h1,h2,h3,h4,h5,h6,p{
    }
 }
 /*===================== Progress Bar ====================*/
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 .progress {
   border-radius: 10px;
 }
@@ -154,13 +157,13 @@ h1,h2,h3,h4,h5,h6,p{
   border-radius: 10px;
   transition: 2s;
 }
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 
 /* =================== Queality ======================*/
 .ex-me{
   margin-top: 35px;
 }
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 
 /* =================== Service Section ==================*/
 .service-h4{
@@ -225,6 +228,8 @@ h1,h2,h3,h4,h5,h6,p{
   text-align: center;
 }
 
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
+
 .testimonial-carousel .owl-dot {
   display: inline-block;
   margin: 0 5px;
@@ -247,7 +252,7 @@ h1,h2,h3,h4,h5,h6,p{
   padding: 0;
   list-style-type: none;
 }
-
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
 
 /*====================== Back to buttom ==================*/
 
@@ -279,3 +284,6 @@ h1,h2,h3,h4,h5,h6,p{
     transform: translateY(-15px);
   }
 }
+/* This CSS Style Sheet Created by Vasudev Jaisawl  */
+/* Thank you */
+/* Web developer - Vasudev Jaiswal owner of Jaiswal's Development Studio */
